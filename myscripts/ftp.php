@@ -1,3 +1,7 @@
+<!-- 
+	for better version of php ftp manager script please check this
+	http://www.net2ftp.com 
+-->
 <!DOCTYPE html>
 <html>
 <body>
